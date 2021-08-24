@@ -3,24 +3,22 @@
 _A Simple IPLogger with Discord Webhook Integration..._
 
 
-### Install í´§
+### Install ğŸ”§
 ```
 Execute Install.bat and npm start!
 ```
 
 
-## Tools Needed í» ï¸
+## Tools Needed ğŸ› ï¸
 
-* [Node.js](https://nodejs.org) Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Node.js](https://nodejs.org) is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-## License í³„
+## License ğŸ“„
 
 This Proyect is licensed under the MIT License - check [LICENSE.md](LICENSE) for more details.
 
-## Notes í¾
+## Notes ğŸ
 
-* This is the first version, if you see a bug open an issue. â˜• 
+* This is the first version, if you see a bug open an issue. â˜•
 
-Made by [Junai](https://github.com/Junai22) í¸Š
-
-
+Made by [Junai](https://github.com/Junai22) ğŸ˜Š
