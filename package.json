@@ -1,0 +1,18 @@
+{
+  "name": "IPLogger-ED.js",
+  "version": "1.0.0",
+  "description": "A Simple IPLogger with Discord Webhook Integration...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Junai",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "discord-webhook-node": "^1.1.8",
+    "events": "^3.3.0",
+    "express": "^4.17.1"
+  }
+}
