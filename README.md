@@ -1,6 +1,6 @@
 <h1 align="center"> IPLogger-ED.js </h1>
 
-_A Simple IPLogger with Discord Webhook Integration..._
+_A Simple IP Logger with Discord Webhook Integration..._
 
 
 ### Install 🔧
@@ -15,7 +15,7 @@ Execute Install.bat and npm start!
 
 ## License 📄
 
-This Proyect is licensed under the MIT License - check [LICENSE.md](LICENSE) for more details.
+This Project is licensed under the MIT License - check [LICENSE.md](LICENSE) for more details.
 
 ## Notes 🎁
 
